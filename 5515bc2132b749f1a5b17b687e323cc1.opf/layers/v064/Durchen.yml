@@ -4,7 +4,7 @@ revision: '00001'
 annotations:
   cd6cfa85514444688e824defaedf548c:
     span:
-      start: 630008
-      end: 724879
+      start: 630005
+      end: 724876
 local_ids:
   cd6cfa85514444688e824defaedf548c: 200000
